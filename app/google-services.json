@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "22162410740",
+    "firebase_url": "https://fir-tugas-23341-default-rtdb.firebaseio.com",
+    "project_id": "fir-tugas-23341",
+    "storage_bucket": "fir-tugas-23341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22162410740:android:504d609caaec80ad4e62a1",
+        "android_client_info": {
+          "package_name": "com.example.accelorometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22162410740-ber1mfpfp6ktn7k4obfnh4v4rjititap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvjlH93tshouF3j_e2YSJsMxkiemPMNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22162410740-ber1mfpfp6ktn7k4obfnh4v4rjititap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22162410740:android:4ec49f43f112affd4e62a1",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22162410740-ber1mfpfp6ktn7k4obfnh4v4rjititap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvjlH93tshouF3j_e2YSJsMxkiemPMNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22162410740-ber1mfpfp6ktn7k4obfnh4v4rjititap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

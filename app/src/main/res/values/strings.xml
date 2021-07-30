@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">accelorometer</string>
+    <string name="sumbux">sumbuX</string>
+    <string name="sumbuy">sumbuY</string>
+    <string name="sumbuz">sumbuZ</string>
+    <string name="write">write</string>
+    <string name="read">read</string>
+</resources>
